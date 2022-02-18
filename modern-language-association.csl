@@ -2,7 +2,7 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="minimal-two">
   <info>
     <title>Modern Language Association 9th edition, modified for Korean</title>
-    <title-short>MLA</title-short>
+    <title-short>KMLA</title-short>
     <id>https://raw.githubusercontent.com/leesh7672/citation-styles/master/modern-language-association.csl</id>
     <link href="https://raw.githubusercontent.com/leesh7672/citation-styles/master/modern-language-association.csl" rel="self"/>
     <link href="http://style.mla.org" rel="documentation"/>
@@ -12,7 +12,6 @@
     <category citation-format="author"/>
     <category field="generic-base"/>
     <summary>This style adheres to the MLA 9th edition handbook. Follows the structure of references as outlined in the MLA Manual closely</summary>
-    <updated>2022-01-23T11:46:03+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="ko">
