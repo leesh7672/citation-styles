@@ -3,8 +3,7 @@
   <info>
     <title>Modern Language Association 9th edition, modified for Korean</title>
     <title-short>kMLA</title-short>
-    <id>http://raw.githubusercontent.com/leesh7672/citation-styles/master/modern-language-association.csl</id>
-    <link href="http://raw.githubusercontent.com/leesh7672/citation-styles/master/modern-language-association.csl" rel="self"/>
+    <id>kMLA</id>
     <link href="http://style.mla.org" rel="documentation"/>
     <author>
       <name>Sebastian Karcher</name>
